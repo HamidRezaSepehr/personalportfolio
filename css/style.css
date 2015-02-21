@@ -1,0 +1,31 @@
+img.header {width: 100%;position: fixed;opacity: 0.5;filter: alpha(opacity=50);}
+.social i {width:40px;height: 40px;padding: 13px; color: white;margin: 3px;}
+.social i.fa-facebook {background-color: #2e5fb0;}
+.social i.fa-twitter {background-color: #1ebce4;}
+.social i.fa-google-plus {background-color: #ba2b13;}
+
+.nomarg {margin: 0px;}
+.margin {margin-top: 5em;margin-bottom: 5em;}
+
+.scroll i {padding: 5px;border: 1px solid #333;border-radius: 50px;width: 25px;height: 25px;}
+.scroll a, .menu a {text-decoration: none;color: #333;}
+
+.contact input, .contact textarea {background: transparent !important;border: 1px solid white;color: #333;}
+
+body {font-family: 'Maven Pro', sans-serif;}
+h1, h2, h3, h4, h5 {font-family: 'Great Vibes', cursive;}
+
+#mixitup .mix{
+	display: none;
+	width: 250px;
+}
+
+.menu {
+	position: fixed;top: 0px;width: 160px;height: 100%;background-color: white;
+}
+.menu ul li {padding: 1em 0px;}
+.menu ul li:hover {background-color: #006064;}
+.menu table {margin: 20px;}
+
+h1 {font-size: 5em;}
+h2 {font-size: 3em;}
